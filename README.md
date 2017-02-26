@@ -1,4 +1,5 @@
-Compile a release build to see the error.
+Compile a release build to see the error:
+    
     ./scripts/release
 
 Looks like:
